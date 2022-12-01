@@ -58,6 +58,9 @@ This is a web based application developed for Education related based website in
 ### Instructors
 ![Screenshot (26)](https://user-images.githubusercontent.com/114825835/205082266-2cfbb42e-9e7c-4b52-bb84-6a78ba21d034.png)
 
+### Project Dashboard
+![Screenshot (27)](https://user-images.githubusercontent.com/114825835/205083356-c4ee3c5e-5006-414f-885a-737629b2589a.png)
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
