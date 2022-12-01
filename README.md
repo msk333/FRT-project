@@ -9,7 +9,7 @@ This is a web based application developed for Education related based website in
 
 **project demo video link** - 
 
-**project link(github repository)-https://msk333.github.io/FRT-project/
+**project link(github repository)**-https://msk333.github.io/FRT-project/
 
 ## Azure technologies used for Project
 
@@ -27,12 +27,18 @@ This is a web based application developed for Education related based website in
 
 ## Deployment in Azure
 
-Start to Create Static Web App
-Select Subscription, Create Resource Group
-Filled the Details of App informarion and Deployed Using through GitHub
-Reviwed and Cross Checked everything and Started to Deploy
-After Deploying Resource Group, Checked and run CI/CD in github actions
-Finally Deployed my Static Web Ap
+-Start to Create Static Web App
+
+-Select Subscription, Create Resource Group
+
+-Filled the Details of App informarion and Deployed Using through GitHub
+
+-Reviwed and Cross Checked everything and Started to Deploy
+
+-After Deploying Resource Group, Checked and run CI/CD in github actions
+
+-Finally Deployed my Static Web Ap
+
 ## Screenshots
 
 
