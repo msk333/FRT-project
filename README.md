@@ -50,10 +50,10 @@ This is a web based application developed for Education related based website in
 ![Screenshot (23)](https://user-images.githubusercontent.com/114825835/205081822-7fbae63f-063d-467b-9d06-6465a060edf8.png)
 
 ### Contact us -
-![Screenshot (25)](https://user-images.githubusercontent.com/114825835/205081930-9eed0160-2b9f-44c7-b66c-2692544e42aa.png
+![Screenshot (25)](https://user-images.githubusercontent.com/114825835/205081930-9eed0160-2b9f-44c7-b66c-2692544e42aa.png)
 
 ### Courses
-![Screenshot (24)](https://user-images.githubusercontent.com/114825835/205082098-70f8c8e4-45b0-4c05-87f6-e87f15499b93.png
+![Screenshot (24)](https://user-images.githubusercontent.com/114825835/205082098-70f8c8e4-45b0-4c05-87f6-e87f15499b93.png)
 
 ### Instructors
 ![Screenshot (26)](https://user-images.githubusercontent.com/114825835/205082266-2cfbb42e-9e7c-4b52-bb84-6a78ba21d034.png)
