@@ -7,7 +7,7 @@ This is a web based application developed for Education based website in india
 
 **Project Link** -https://gentle-sea-07db4cc00.2.azurestaticapps.net
 **project demo video link** - 
-project link(github repository)-https://msk333.github.io/FRT-project/
+**project link(github repository)**-https://msk333.github.io/FRT-project/
 
 ## Azure technologies used for Project
 
