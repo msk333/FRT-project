@@ -7,7 +7,7 @@ This is a web based application developed for Education related based website in
 
 **Project Link** -https://gentle-sea-07db4cc00.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/BO2Me2XMA1k
 
 **project link(github repository)**-https://msk333.github.io/FRT-project/
 
@@ -68,3 +68,7 @@ This is a web based application developed for Education related based website in
 - CSS
 - Bootstrap
 - JavaScript
+
+### privacy policies
+
+https://www.freeprivacypolicy.com/live/24064345-0820-4b36-9f97-b6a8ecaed124
