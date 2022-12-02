@@ -9,7 +9,7 @@ This is a web based application developed for Education related based website in
 
 **project demo video link** - https://youtu.be/BO2Me2XMA1k
 
-**project link(github repository)**-https://msk333.github.io/FRT-project/
+**project link(github repository)**- https://github.com/msk333/FRT-project
 
 ## Azure technologies used for Project
 
