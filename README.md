@@ -14,6 +14,7 @@ This is a web based application developed for Education related based website in
 ## Azure technologies used for Project
 
 - Static web apps
+- Visual Studio Code
 
 
 ## Features and Functionalities 
